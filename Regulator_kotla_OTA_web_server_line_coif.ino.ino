@@ -34,8 +34,8 @@ uint8_t sensor2[8] = { 0x28, 0x90, 0xE3, 0xDF, 0x5B, 0x14, 0x1, 0x93 };
 const int relay_season = 5; // контакт, к которому подключено реле D1=5
 
 /*Put your SSID & Password*/
-const char* ssid = "ASUS";  // Enter SSID here
-const char* password = "Nv334566n";  //Enter Password here
+const char* ssid = "XXX";  // Enter SSID here
+const char* password = "XXX";  //Enter Password here
 
 
 ESP8266WebServer server(80);         
